@@ -1,0 +1,7 @@
+input.ng-touched.ng-invalid{
+    border-color: red;
+}
+.img{
+    background-image:url('../../../assets/pics/signup_bg.jpg');
+    background-repeat: no-repeat;
+}
